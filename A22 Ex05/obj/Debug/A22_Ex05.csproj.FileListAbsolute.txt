@@ -1,0 +1,11 @@
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\bin\Debug\A22 Ex05.exe.config
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\bin\Debug\A22 Ex05.exe
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\bin\Debug\A22 Ex05.pdb
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.csproj.AssemblyReference.cache
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.BullEyesBoardForm.resources
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.ChooseSizeForm.resources
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.ColorPaletteForm.resources
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.csproj.GenerateResource.cache
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22 Ex05.exe
+C:\Users\bivas\source\repos\A22 Ex05 Arad 206083586 Ido 308324094\A22 Ex05\obj\Debug\A22 Ex05.pdb
