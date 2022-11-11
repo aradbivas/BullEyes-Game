@@ -1,5 +1,10 @@
 # BullEyes-Game
 
+
+
+https://user-images.githubusercontent.com/41302200/201338202-816ece03-8e1d-4810-94d8-96f1c2e471eb.mp4
+
+
 Created with c# .net and winforms,
 the purpse of the game is to find the correct colors that the coumpter chooses randomly in the correct order.
 
